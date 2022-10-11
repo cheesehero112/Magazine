@@ -23,11 +23,11 @@
 
 1. Top half
 
-![Night-skyline-screenshot](https://github.com/cheesehero112/City_Skyline/raw/main/media/night-skyline-screenshot.png)
+![magazine-top](https://github.com/cheesehero112/Magazine/raw/main/media/Magazine-top.png)
 
 2. Bottom half
 
-![Day-skyline-screenshot](https://github.com/cheesehero112/City_Skyline/raw/main/media/Day-skyline-screenshot.png)
+![magazine-bottom](https://github.com/cheesehero112/Magazine/raw/main/media/Magazine-bottom.png)
 
 ## References
 
